@@ -5,7 +5,7 @@ This repository contains my paper reading notes on deep learning and machine lea
 My name is [Varshant Dhar](https://www.linkedin.com/in/varshant-dhar/). I currently work as an Applied Scientist at [Ripple](https://ripple.com/). My background is in Statistics and Computer Science which I studied at the [University of Chicago](https://www.uchicago.edu/) from 2015-2019 and the [University of Michigan, Ann Arbor](https://umich.edu/) from 2019-2021.
 
 ## 2023-03
-- [Squeeze and Excitation Networks](pages/squeeze-and-excitation.html)
+- [Squeeze and Excitation Networks](_posts/2023-03-11-squeeze-and-excitation.markdown)
 - [CoAtNet: Marrying Convolution and Attention for All Data Sizes](_posts/2023-03-05-marrying-convolution-and-attention.markdown)
 - [Not All Memories are Created Equal: Learning to Forget by Expiring](_posts/2023-03-06-learning-to-forget-by-expiring.markdown)
 - [Searching for Activation Functions](_posts/2023-03-07-activation-functions.markdown)

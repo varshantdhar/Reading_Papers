@@ -13,9 +13,7 @@ tags:
 
 [Squeeze and Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
 
-\begin{aligned}
-
-A unit of a transformation $F_{tr}$ mapping an input $X \in \R^{H \times W \times C}$ to feature maps $U \in \R^{H^{'} \times W^{'} \times C^{'}}$. Taking $F_{tr}$ to be a convolution operator and use $V = [v_1, v_2, \cdots, v_{C}]$ to denote the learned set of filter, kernels, where $v_c$ refers to the parameters of the $c$-th filter. We can then write the outputs $U \in \R^{H^{'} \times W^{'} \times C^{'}}$ as 
+A unit of a transformation $F_{tr}$ mapping an input $$ X \in \R^{H \times W \times C} $$ to feature maps $$ U \in \R^{H^{'} \times W^{'} \times C^{'}} $$. Taking $$ F_{tr} $$ to be a convolution operator and use $$ V = [v_1, v_2, \cdots, v_{C}] $$ to denote the learned set of filter, kernels, where $v_c$ refers to the parameters of the $c$-th filter. We can then write the outputs $$ U \in \R^{H^{'} \times W^{'} \times C^{'}} $$ as 
 
 $$ u_c = v_c * X = \sum_{s=1}^C v_c^s * x^s $$
 

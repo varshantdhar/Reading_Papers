@@ -1,7 +1,6 @@
 ---
 title:  "Marrying Convolution and Attention"
 date:   2023-03-05
-mathjax: true
 categories:
     - blog
 tags: 

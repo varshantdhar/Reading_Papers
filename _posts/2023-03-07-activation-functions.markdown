@@ -1,7 +1,6 @@
 ---
 title:  "Searching for Activation Functions"
 date:   2023-03-08
-mathjax: true
 categories:
     - study
 tags: 

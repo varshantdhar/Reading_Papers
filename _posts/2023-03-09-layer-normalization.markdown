@@ -1,7 +1,6 @@
 ---
 title:  "Layer Normalization"
 date:   2023-03-09
-mathjax: true
 categories:
     - blog
 tags: 

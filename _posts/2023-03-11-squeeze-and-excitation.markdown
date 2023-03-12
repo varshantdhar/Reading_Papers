@@ -53,6 +53,4 @@ where $\tilde{X} = [\tilde{x_1},\tilde{x_2},\cdots,\tilde{x_c}]$ and $F_{scale}(
 
 Note, the excitation operator maps the input-specific descriptor $z$ to a set of channel weights. In this regard, SE blocks intrinsically introduce dynamics conditioned on the input, which can be regarded as a self=attention function on channels whose relationships are not confined to the local receptive field the convolution filters are repsonsive to. 
 
-<figure>
-<img src="assets/images/squeeze-and-excitation-blocks/seblocks.png">
-</figure>
+![alt]({{ site.url }}{{ site.baseurl }}assets/images/squeeze-and-excitation-blocks/seblocks.png)

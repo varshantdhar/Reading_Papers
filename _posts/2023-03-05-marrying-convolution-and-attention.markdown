@@ -13,6 +13,8 @@ tags:
 
 [CoAtNet: Marrying Convolution and Attention for All Data Sizes](https://proceedings.neurips.cc/paper/2021/file/20568692db622456cc42a2e853ca21f8-Paper.pdf)
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 ## Summary
 
 While Transformers tend to have larger model capacity, their generalization can be worse than convuktional networks due to the lack of the right inductive bias. The paper above proposes a hybrid model that assumes:
